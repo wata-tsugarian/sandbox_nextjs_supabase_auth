@@ -1,0 +1,1 @@
+# sandbox_nextjs_supabase_auth
